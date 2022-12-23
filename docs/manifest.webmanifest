@@ -1,9 +1,9 @@
 ---
 ---
 {
-    "short_name": "Palangka Now",
-    "name": "Palangka Now (palangkanow.com)",
-    "description": "Palangka Now (palangkanow) adalah blog publik warga Palangka Raya. Jika Anda warga Palangka Raya, maka Anda dapat berpartisipasi.",
+    "short_name": "Panti Asuhan Ayah Bunda",
+    "name": "Panti Asuhan Ayah Bunda",
+    "description": "Panti Asuhan Ayah Bunda",
     "icons": [
         {
             "src": "{{site.url}}/files/icon48.png",
@@ -36,7 +36,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "https://www.palangkanow.com",
+    "start_url": "https://paab.or.id",
     "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
