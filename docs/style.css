@@ -110,7 +110,7 @@ padding: 0 0 0 calc(5 * var(--pd));
 article, footer {
 margin-top: var(--pd);
 margin-bottom: calc(var(--pd) * 4);
-padding: 16px 16px 16px 16px;
+padding: 6px 6px 6px 6px;
 }
 
 .katalog {
@@ -261,6 +261,7 @@ padding-left: 2px;
 }
 
 .laci {
+  padding: 6px 6px 6px 6px;
 }
 
 .item {
@@ -296,6 +297,10 @@ margin: 0 0 0 0;
 outline: none;
 text-align: center;
 font-size: 16px;
+}
+#search-input:focus {
+  background-color: #ffffff;
+  outline: 4px solid #0066FF;
 }
 
 #search-results {
