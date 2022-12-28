@@ -91,9 +91,10 @@ td {
   text-align: left;
 }
 
+.header,
 .badan {
   margin: 0 auto 0 auto;
-  max-width: 720px;
+  max-width: 600px;
 }
 
 .badan>p>img,
@@ -140,8 +141,7 @@ section,
   padding: 0 0 0 calc(5 * var(--pd));
 }
 
-footer span {
-}
+footer span {}
 
 article,
 footer {
@@ -261,8 +261,6 @@ header {
   align-content: center;
   align-items: center;
   justify-content: space-between;
-  max-width: 600px;
-  margin: 0 auto;
   padding: 0;
   border-bottom: 1px solid #eeeeee;
   position: sticky;
