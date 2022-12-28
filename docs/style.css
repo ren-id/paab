@@ -250,8 +250,6 @@ margin-bottom: calc(var(--pd) * 2);
 }
 
 .lemari {
-padding-top: 2px;
-padding-left: 2px;
 }
 
 .lemari * {
@@ -265,7 +263,6 @@ padding-left: 2px;
 }
 
 .item {
-padding: 2px 2px 2px 2px;
 border-bottom: 1px solid #dddddd;
 color: #000000;
 }
