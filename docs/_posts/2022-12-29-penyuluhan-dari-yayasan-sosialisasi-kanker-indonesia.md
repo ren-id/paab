@@ -2,7 +2,7 @@
 title: "Penyuluhan dari Yayasan Sosialisasi Kanker Indonesia di Panti Asuhan Ayah Bunda"
 description: "Yayasan Sosialisasi Kanker Indonesia berkunjung ke Panti Asuhan Ayah Bunda dalam rangka penyuluhan kanker dan tumor."
 categories: artikel
-date: 2022-12-29
+date: 2022-12-29 10:00:00
 ---
 # Penyuluhan dari Yayasan Sosialisasi Kanker Indonesia
 
