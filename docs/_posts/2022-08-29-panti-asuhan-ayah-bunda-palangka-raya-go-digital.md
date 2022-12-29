@@ -5,7 +5,7 @@ categories: artikel
 ---
 # Panti Asuhan Ayah Bunda Palangka Raya Go Digital
 
-Bentuk dari digitalisasi ini di antaranya di antaranya sebagai berikut.
+Bentuk dari digitalisasi ini di antaranya sebagai berikut.
 
 1. **Website resmi**. Kini kami memiliki website dengan alamat https://paab.or.id yang dikelola secara mandiri.
 2. **Media sosial**. Kami juga mengikuti perkembangan media sosial populer seperti Instagram dan Facebook.

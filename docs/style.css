@@ -262,8 +262,8 @@ header {
   align-items: center;
   justify-content: space-between;
   padding: 0;
-  border-bottom: 1px solid #eeeeee;
   position: sticky;
+  margin-bottom: 24px;
 }
 
 header svg {
@@ -331,7 +331,7 @@ article img {
 .search-box,
 #search-results {
   max-width: 480px;
-  min-width: 300px;
+  min-width: 240px;
 }
 
 .search-box {
@@ -351,7 +351,7 @@ article img {
   margin: 0 0 0 0;
   outline: none;
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 #search-input:focus {
