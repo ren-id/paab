@@ -435,19 +435,24 @@ article img {
 }
 
 @media only screen and (min-width: 600px) {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-evenly;
-}
-
-.flexend {
-  align-items: flex-end;
+  .spandukfeksibel {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+  }
+  .flexend {
+    align-items: flex-end;
+  }
 }
 
 .deskripsispanduk {
   padding: 16px 16px 16px 16px;
   color: #000000;
+}
+
+.gambarspanduk {
+  line-height: 0;
 }
 
 .tombolputih {
