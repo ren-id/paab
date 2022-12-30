@@ -452,9 +452,20 @@ article img {
 
 .tombolputih {
   background-color: #f9f9f9;
+  color: #222222;
   text-align: center;
   border-radius: 6px 6px 6px 6px;
   padding: 6px 12px 6px 12px;
+}
+
+.tombolputihkecil {
+  background-color: #f9f9f9;
+  color: #222222;
+  border: none;
+  border-radius: 3px 3px 3px 3px;
+  padding: 4px 12px 4px 12px;
+  font-size: 13px;
+  margin: 0 0 0 0;
 }
 
 .notifikasi-penting {
