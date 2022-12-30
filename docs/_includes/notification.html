@@ -1,6 +1,11 @@
-<div class="notifikasi-penting" id="notifikasi">Panti Asuhan Ayah Bunda tidak pernah meminta transfer uang ke rekening pribadi/perorangan.</div>
+<div class="notifikasi-penting" id="notifikasi">Panti Asuhan Ayah Bunda tidak pernah meminta transfer uang ke rekening
+    pribadi/perorangan. <button id="sembunyikannotifikasi">Sembunyikan</button></div>
 <script>
-    $(document).ready(function () {
+    $("#sembunyikannotifikasi").click(function () {
         $("#notifikasi").fadeOut(60000);
     });
+    // Format berikut untuk digunakan tanpa mengeklik sesuatu.
+    // $(document).ready(function () {
+    //    $("#notifikasi").fadeOut(60000);
+    // });
 </script>
