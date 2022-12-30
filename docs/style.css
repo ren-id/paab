@@ -249,7 +249,7 @@ code {
 }
 
 header {
-  margin: calc(var(--pd) * 10) 0 calc(var(--pd) * 10) 0;
+  margin: 24px auto 24px auto;
 }
 
 .header {
