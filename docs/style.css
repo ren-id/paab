@@ -141,8 +141,6 @@ section,
   padding: 0 0 0 calc(5 * var(--pd));
 }
 
-footer span {}
-
 article,
 footer {
   margin-top: var(--pd);
@@ -411,12 +409,6 @@ article img {
   flex-basis: auto;
 }
 
-.container {}
-
-.left-container {}
-
-.right-container {}
-
 .logo-box {
   padding: 8px 8px 8px 8px;
 }
@@ -439,11 +431,14 @@ article img {
 
 .spandukfeksibel {
   background-color: #00d4aa;
+  border-radius: 6px 6px 6px 6px;
+}
+
+@media only screen and (min-width: 600px) {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-evenly;
-  border-radius: 6px 6px 6px 6px;
 }
 
 .flexend {
