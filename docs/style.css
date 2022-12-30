@@ -314,7 +314,8 @@ article img {
 
 .rak {}
 
-.laci {
+.laci,
+.spanduk {
   padding: 6px 6px 6px 6px;
 }
 
@@ -436,4 +437,8 @@ article img {
   border-left: 4px solid var(--aksen);
   padding: 8px 8px 8px 8px;
   margin: 16px 0 16px 0;
+}
+
+.spanduk img {
+  max-width: 100%;
 }
