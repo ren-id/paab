@@ -308,12 +308,6 @@ article img {
   margin-bottom: calc(var(--pd) * 2);
 }
 
-.lemari {}
-
-.lemari * {}
-
-.rak {}
-
 .laci,
 .spanduk {
   padding: 6px 6px 6px 6px;
@@ -441,4 +435,28 @@ article img {
 
 .spanduk img {
   max-width: 100%;
+}
+
+.spandukfeksibel {
+  background-color: #00d4aa;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  border-radius: 6px 6px 6px 6px;
+}
+
+.flexend {
+  align-items: flex-end;
+}
+
+.deskripsispanduk {
+  padding: 6px 6px 6px 6px;
+}
+
+.tombolputih {
+  background-color: #f9f9f9;
+  text-align: center;
+  border-radius: 6px 6px 6px 6px;
+  padding: 6px 12px 6px 12px;
 }
