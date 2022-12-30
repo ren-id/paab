@@ -253,12 +253,6 @@ header {
 }
 
 .header {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-content: center;
-  align-items: center;
-  justify-content: space-between;
   padding: 0;
   position: sticky;
   margin-bottom: 24px;
@@ -323,8 +317,8 @@ article img {
 
 .search-box,
 #search-results {
-  max-width: 480px;
-  min-width: 240px;
+  max-width: 300px;
+  min-width: 100px;
 }
 
 .search-box {
@@ -411,6 +405,7 @@ article img {
 
 .logo-box {
   padding: 8px 8px 8px 8px;
+  margin-bottom: 16px;
 }
 
 .logo-box img {
